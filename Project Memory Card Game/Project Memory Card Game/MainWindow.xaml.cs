@@ -24,6 +24,7 @@ namespace Project_Memory_Card_Game
         const int NR_OF_COLS = 4;
         MemoryGrid grid;
        
+        //Hallo allemaal
 
         public MainWindow()
         {
